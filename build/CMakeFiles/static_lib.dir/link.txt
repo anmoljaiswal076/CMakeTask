@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libstatic_lib.a CMakeFiles/static_lib.dir/src/static/logical_and.cpp.obj CMakeFiles/static_lib.dir/src/static/logical_or.cpp.obj CMakeFiles/static_lib.dir/src/static/logical_xor.cpp.obj CMakeFiles/static_lib.dir/src/static/logical_terinary.cpp.obj CMakeFiles/static_lib.dir/src/static/Point7_def.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libstatic_lib.a

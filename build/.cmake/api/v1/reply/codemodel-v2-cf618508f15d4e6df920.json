@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27.9"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "compilation",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "calculator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calculator-Debug-7e8dc95d76f58f54700d.json",
+					"name" : "calculator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exectable6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exectable6-Debug-94a4247f9375b7a69b82.json",
+					"name" : "exectable6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "executable1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-executable1-Debug-e6398e6a1661f0d26bea.json",
+					"name" : "executable1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "executable2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-executable2-Debug-de62dee44e59fe567597.json",
+					"name" : "executable2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "executable3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-executable3-Debug-babe0ff693353aa5ad20.json",
+					"name" : "executable3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "executable4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-executable4-Debug-8a6ccfed37495f4037e3.json",
+					"name" : "executable4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "executable5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-executable5-Debug-c2a3e98a63934cca918e.json",
+					"name" : "executable5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-1b83de3730d02aa2f4b5.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "static_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-static_lib-Debug-5ca1a49195824c3533fc.json",
+					"name" : "static_lib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/anmol/OneDrive/Documents/Compilation/build",
+		"source" : "C:/Users/anmol/OneDrive/Documents/Compilation"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

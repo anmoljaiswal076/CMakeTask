@@ -1,0 +1,104 @@
+[
+{
+  "directory": "C:/Users/anmol/OneDrive/Documents/Compilation/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -Dcalculator_EXPORTS @CMakeFiles/calculator.dir/includes_CXX.rsp -g -o CMakeFiles\\calculator.dir\\src\\dynamic\\add.cpp.obj -c C:\\Users\\anmol\\OneDrive\\Documents\\Compilation\\src\\dynamic\\add.cpp",
+  "file": "C:/Users/anmol/OneDrive/Documents/Compilation/src/dynamic/add.cpp",
+  "output": "CMakeFiles/calculator.dir/src/dynamic/add.cpp.obj"
+},
+{
+  "directory": "C:/Users/anmol/OneDrive/Documents/Compilation/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -Dcalculator_EXPORTS @CMakeFiles/calculator.dir/includes_CXX.rsp -g -o CMakeFiles\\calculator.dir\\src\\dynamic\\subtract.cpp.obj -c C:\\Users\\anmol\\OneDrive\\Documents\\Compilation\\src\\dynamic\\subtract.cpp",
+  "file": "C:/Users/anmol/OneDrive/Documents/Compilation/src/dynamic/subtract.cpp",
+  "output": "CMakeFiles/calculator.dir/src/dynamic/subtract.cpp.obj"
+},
+{
+  "directory": "C:/Users/anmol/OneDrive/Documents/Compilation/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -Dcalculator_EXPORTS @CMakeFiles/calculator.dir/includes_CXX.rsp -g -o CMakeFiles\\calculator.dir\\src\\dynamic\\multiply.cpp.obj -c C:\\Users\\anmol\\OneDrive\\Documents\\Compilation\\src\\dynamic\\multiply.cpp",
+  "file": "C:/Users/anmol/OneDrive/Documents/Compilation/src/dynamic/multiply.cpp",
+  "output": "CMakeFiles/calculator.dir/src/dynamic/multiply.cpp.obj"
+},
+{
+  "directory": "C:/Users/anmol/OneDrive/Documents/Compilation/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -Dcalculator_EXPORTS @CMakeFiles/calculator.dir/includes_CXX.rsp -g -o CMakeFiles\\calculator.dir\\src\\dynamic\\divide.cpp.obj -c C:\\Users\\anmol\\OneDrive\\Documents\\Compilation\\src\\dynamic\\divide.cpp",
+  "file": "C:/Users/anmol/OneDrive/Documents/Compilation/src/dynamic/divide.cpp",
+  "output": "CMakeFiles/calculator.dir/src/dynamic/divide.cpp.obj"
+},
+{
+  "directory": "C:/Users/anmol/OneDrive/Documents/Compilation/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -Dcalculator_EXPORTS @CMakeFiles/calculator.dir/includes_CXX.rsp -g -o CMakeFiles\\calculator.dir\\src\\dynamic\\pthread_operation.cpp.obj -c C:\\Users\\anmol\\OneDrive\\Documents\\Compilation\\src\\dynamic\\pthread_operation.cpp",
+  "file": "C:/Users/anmol/OneDrive/Documents/Compilation/src/dynamic/pthread_operation.cpp",
+  "output": "CMakeFiles/calculator.dir/src/dynamic/pthread_operation.cpp.obj"
+},
+{
+  "directory": "C:/Users/anmol/OneDrive/Documents/Compilation/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/static_lib.dir/includes_CXX.rsp -g -o CMakeFiles\\static_lib.dir\\src\\static\\logical_and.cpp.obj -c C:\\Users\\anmol\\OneDrive\\Documents\\Compilation\\src\\static\\logical_and.cpp",
+  "file": "C:/Users/anmol/OneDrive/Documents/Compilation/src/static/logical_and.cpp",
+  "output": "CMakeFiles/static_lib.dir/src/static/logical_and.cpp.obj"
+},
+{
+  "directory": "C:/Users/anmol/OneDrive/Documents/Compilation/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/static_lib.dir/includes_CXX.rsp -g -o CMakeFiles\\static_lib.dir\\src\\static\\logical_or.cpp.obj -c C:\\Users\\anmol\\OneDrive\\Documents\\Compilation\\src\\static\\logical_or.cpp",
+  "file": "C:/Users/anmol/OneDrive/Documents/Compilation/src/static/logical_or.cpp",
+  "output": "CMakeFiles/static_lib.dir/src/static/logical_or.cpp.obj"
+},
+{
+  "directory": "C:/Users/anmol/OneDrive/Documents/Compilation/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/static_lib.dir/includes_CXX.rsp -g -o CMakeFiles\\static_lib.dir\\src\\static\\logical_xor.cpp.obj -c C:\\Users\\anmol\\OneDrive\\Documents\\Compilation\\src\\static\\logical_xor.cpp",
+  "file": "C:/Users/anmol/OneDrive/Documents/Compilation/src/static/logical_xor.cpp",
+  "output": "CMakeFiles/static_lib.dir/src/static/logical_xor.cpp.obj"
+},
+{
+  "directory": "C:/Users/anmol/OneDrive/Documents/Compilation/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/static_lib.dir/includes_CXX.rsp -g -o CMakeFiles\\static_lib.dir\\src\\static\\logical_terinary.cpp.obj -c C:\\Users\\anmol\\OneDrive\\Documents\\Compilation\\src\\static\\logical_terinary.cpp",
+  "file": "C:/Users/anmol/OneDrive/Documents/Compilation/src/static/logical_terinary.cpp",
+  "output": "CMakeFiles/static_lib.dir/src/static/logical_terinary.cpp.obj"
+},
+{
+  "directory": "C:/Users/anmol/OneDrive/Documents/Compilation/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/static_lib.dir/includes_CXX.rsp -g -o CMakeFiles\\static_lib.dir\\src\\static\\Point7_def.cpp.obj -c C:\\Users\\anmol\\OneDrive\\Documents\\Compilation\\src\\static\\Point7_def.cpp",
+  "file": "C:/Users/anmol/OneDrive/Documents/Compilation/src/static/Point7_def.cpp",
+  "output": "CMakeFiles/static_lib.dir/src/static/Point7_def.cpp.obj"
+},
+{
+  "directory": "C:/Users/anmol/OneDrive/Documents/Compilation/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c C:\\Users\\anmol\\OneDrive\\Documents\\Compilation\\src\\main.cpp",
+  "file": "C:/Users/anmol/OneDrive/Documents/Compilation/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/anmol/OneDrive/Documents/Compilation/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/executable1.dir/includes_CXX.rsp -g -o CMakeFiles\\executable1.dir\\src\\runner\\exec_add.cpp.obj -c C:\\Users\\anmol\\OneDrive\\Documents\\Compilation\\src\\runner\\exec_add.cpp",
+  "file": "C:/Users/anmol/OneDrive/Documents/Compilation/src/runner/exec_add.cpp",
+  "output": "CMakeFiles/executable1.dir/src/runner/exec_add.cpp.obj"
+},
+{
+  "directory": "C:/Users/anmol/OneDrive/Documents/Compilation/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/executable2.dir/includes_CXX.rsp -g -o CMakeFiles\\executable2.dir\\src\\runner\\exec_sub.cpp.obj -c C:\\Users\\anmol\\OneDrive\\Documents\\Compilation\\src\\runner\\exec_sub.cpp",
+  "file": "C:/Users/anmol/OneDrive/Documents/Compilation/src/runner/exec_sub.cpp",
+  "output": "CMakeFiles/executable2.dir/src/runner/exec_sub.cpp.obj"
+},
+{
+  "directory": "C:/Users/anmol/OneDrive/Documents/Compilation/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/executable3.dir/includes_CXX.rsp -g -o CMakeFiles\\executable3.dir\\src\\runner\\exec_multiply.cpp.obj -c C:\\Users\\anmol\\OneDrive\\Documents\\Compilation\\src\\runner\\exec_multiply.cpp",
+  "file": "C:/Users/anmol/OneDrive/Documents/Compilation/src/runner/exec_multiply.cpp",
+  "output": "CMakeFiles/executable3.dir/src/runner/exec_multiply.cpp.obj"
+},
+{
+  "directory": "C:/Users/anmol/OneDrive/Documents/Compilation/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/executable4.dir/includes_CXX.rsp -g -o CMakeFiles\\executable4.dir\\src\\runner\\exec_divide.cpp.obj -c C:\\Users\\anmol\\OneDrive\\Documents\\Compilation\\src\\runner\\exec_divide.cpp",
+  "file": "C:/Users/anmol/OneDrive/Documents/Compilation/src/runner/exec_divide.cpp",
+  "output": "CMakeFiles/executable4.dir/src/runner/exec_divide.cpp.obj"
+},
+{
+  "directory": "C:/Users/anmol/OneDrive/Documents/Compilation/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/executable5.dir/includes_CXX.rsp -g -o CMakeFiles\\executable5.dir\\src\\runner\\exec_logical_xor.cpp.obj -c C:\\Users\\anmol\\OneDrive\\Documents\\Compilation\\src\\runner\\exec_logical_xor.cpp",
+  "file": "C:/Users/anmol/OneDrive/Documents/Compilation/src/runner/exec_logical_xor.cpp",
+  "output": "CMakeFiles/executable5.dir/src/runner/exec_logical_xor.cpp.obj"
+},
+{
+  "directory": "C:/Users/anmol/OneDrive/Documents/Compilation/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/exectable6.dir/includes_CXX.rsp -g -o CMakeFiles\\exectable6.dir\\src\\runner\\Point7_dec.cpp.obj -c C:\\Users\\anmol\\OneDrive\\Documents\\Compilation\\src\\runner\\Point7_dec.cpp",
+  "file": "C:/Users/anmol/OneDrive/Documents/Compilation/src/runner/Point7_dec.cpp",
+  "output": "CMakeFiles/exectable6.dir/src/runner/Point7_dec.cpp.obj"
+}
+]
