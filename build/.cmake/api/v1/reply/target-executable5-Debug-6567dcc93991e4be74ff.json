@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "exectable6.exe"
+			"path" : "executable5.exe"
 		},
 		{
-			"path" : "exectable6.pdb"
+			"path" : "executable5.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -14,7 +14,6 @@
 		"commands" : 
 		[
 			"add_executable",
-			"target_link_libraries",
 			"include_directories"
 		],
 		"files" : 
@@ -29,19 +28,13 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 42,
+				"line" : 40,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 43,
-				"parent" : 0
-			},
-			{
-				"command" : 2,
-				"file" : 0,
-				"line" : 4,
+				"line" : 5,
 				"parent" : 0
 			}
 		]
@@ -58,23 +51,23 @@
 			"includes" : 
 			[
 				{
-					"backtrace" : 3,
+					"backtrace" : 2,
 					"path" : "C:/Users/anmol/OneDrive/Documents/Compilation/src"
 				},
 				{
-					"backtrace" : 3,
+					"backtrace" : 2,
 					"path" : "C:/Users/anmol/OneDrive/Documents/Compilation/inc"
 				},
 				{
-					"backtrace" : 3,
+					"backtrace" : 2,
 					"path" : "C:/Users/anmol/OneDrive/Documents/Compilation/dynamic"
 				},
 				{
-					"backtrace" : 3,
+					"backtrace" : 2,
 					"path" : "C:/Users/anmol/OneDrive/Documents/Compilation/static"
 				},
 				{
-					"backtrace" : 3,
+					"backtrace" : 2,
 					"path" : "C:/Users/anmol/OneDrive/Documents/Compilation/runner"
 				}
 			],
@@ -85,14 +78,7 @@
 			]
 		}
 	],
-	"dependencies" : 
-	[
-		{
-			"backtrace" : 2,
-			"id" : "static_lib::@6890427a1f51a3e7e1df"
-		}
-	],
-	"id" : "exectable6::@6890427a1f51a3e7e1df",
+	"id" : "executable5::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -106,19 +92,14 @@
 				"role" : "flags"
 			},
 			{
-				"backtrace" : 2,
-				"fragment" : "libstatic_lib.a",
-				"role" : "libraries"
-			},
-			{
 				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
 				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
-	"name" : "exectable6",
-	"nameOnDisk" : "exectable6.exe",
+	"name" : "executable5",
+	"nameOnDisk" : "executable5.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -139,7 +120,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/runner/Point7_dec.cpp",
+			"path" : "src/runner/exec_logical_xor.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

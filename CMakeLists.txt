@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.27.9)
+
 project(compilation)
 
 include_directories(src inc dynamic static runner)

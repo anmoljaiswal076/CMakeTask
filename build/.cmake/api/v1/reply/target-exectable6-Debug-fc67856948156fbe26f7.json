@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "executable4.exe"
+			"path" : "exectable6.exe"
 		},
 		{
-			"path" : "executable4.pdb"
+			"path" : "exectable6.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -14,6 +14,7 @@
 		"commands" : 
 		[
 			"add_executable",
+			"target_link_libraries",
 			"include_directories"
 		],
 		"files" : 
@@ -28,13 +29,19 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 38,
+				"line" : 43,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 4,
+				"line" : 44,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 5,
 				"parent" : 0
 			}
 		]
@@ -51,23 +58,23 @@
 			"includes" : 
 			[
 				{
-					"backtrace" : 2,
+					"backtrace" : 3,
 					"path" : "C:/Users/anmol/OneDrive/Documents/Compilation/src"
 				},
 				{
-					"backtrace" : 2,
+					"backtrace" : 3,
 					"path" : "C:/Users/anmol/OneDrive/Documents/Compilation/inc"
 				},
 				{
-					"backtrace" : 2,
+					"backtrace" : 3,
 					"path" : "C:/Users/anmol/OneDrive/Documents/Compilation/dynamic"
 				},
 				{
-					"backtrace" : 2,
+					"backtrace" : 3,
 					"path" : "C:/Users/anmol/OneDrive/Documents/Compilation/static"
 				},
 				{
-					"backtrace" : 2,
+					"backtrace" : 3,
 					"path" : "C:/Users/anmol/OneDrive/Documents/Compilation/runner"
 				}
 			],
@@ -78,7 +85,14 @@
 			]
 		}
 	],
-	"id" : "executable4::@6890427a1f51a3e7e1df",
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "static_lib::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "exectable6::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -92,14 +106,19 @@
 				"role" : "flags"
 			},
 			{
+				"backtrace" : 2,
+				"fragment" : "libstatic_lib.a",
+				"role" : "libraries"
+			},
+			{
 				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
 				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
-	"name" : "executable4",
-	"nameOnDisk" : "executable4.exe",
+	"name" : "exectable6",
+	"nameOnDisk" : "exectable6.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -120,7 +139,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/runner/exec_divide.cpp",
+			"path" : "src/runner/Point7_dec.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
